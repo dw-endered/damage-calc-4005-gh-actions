@@ -1,3 +1,10 @@
+# badge 1
+[![Damage Calcurlation Test](https://github.com/dw-endered/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/dw-endered/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+
+# badge 2
+![](https://github.com/dw-endered/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)
+
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 
